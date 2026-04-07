@@ -1,0 +1,12 @@
+programa {
+  funcao inicio() {
+    
+    inteiro idade = 20
+    escreva (idade)
+
+    //1. Não estava
+    //2.O erro é que o "escreva" estava fora do escopo.
+
+
+  }
+}

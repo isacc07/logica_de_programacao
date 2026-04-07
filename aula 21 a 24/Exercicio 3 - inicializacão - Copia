@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    inteiro numero
+    numero = 5
+    
+    escreva ("numero: ", numero)
+
+    //1. O valor não será apresentado pois ele nao tem um valor definido.
+    
+  }
+}
